@@ -99,3 +99,22 @@ th {
     line-height: 2;
     padding-left: 25px;
 }
+/* Mobile responsive design */
+
+@media (max-width: 600px) {
+
+    .intro-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    section {
+        margin: 12px;
+        padding: 15px;
+    }
+}
