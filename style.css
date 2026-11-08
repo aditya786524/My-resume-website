@@ -118,3 +118,7 @@ th {
         padding: 15px;
     }
 }
+.card:hover {
+    background-color: #e1eaf2;
+    transform: translateY(-3px);
+}
