@@ -52,3 +52,15 @@ nav a {
     margin: 0 15px;
     font-weight: bold;
 }
+section {
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #243b53;
+    border-bottom: 2px solid #243b53;
+    padding-bottom: 8px;
+}
