@@ -1,1 +1,18 @@
+.intro-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 30px;
+}
 
+.intro-text {
+    flex: 1;
+}
+
+.intro-image img {
+    width: 200px;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 10px;
+}
