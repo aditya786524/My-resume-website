@@ -22,3 +22,33 @@
     border-radius: 8px;
     display: block;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333333;
+    margin: 0;
+    line-height: 1.6;
+}
+h1 {
+    background-color: #243b53;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    font-size: 32px;
+}
+nav {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    color: #243b53;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
