@@ -95,4 +95,7 @@ th {
     text-align: center;
     font-weight: bold;
 }
-
+#achievements ul {
+    line-height: 2;
+    padding-left: 25px;
+}
